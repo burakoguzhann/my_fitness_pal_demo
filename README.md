@@ -20,10 +20,10 @@ MVVM mimari kullanıldı,
 
 <img width="300" height="600" alt="1" src="https://github.com/user-attachments/assets/11bd8187-1f87-49a9-8c47-50e268203dba" />
 <img width="300" height="600" alt="2" src="https://github.com/user-attachments/assets/3e020ecf-5730-4146-91fb-657c3ce94792" />
-<img width="300" height="400" alt="3" src="https://github.com/user-attachments/assets/9ffdeb6f-1c37-4804-940c-273aacec1f55" />
-<img width="300" height="400" alt="4" src="https://github.com/user-attachments/assets/5ceb82af-8073-49a1-bb6d-c44193ce0a34" />
-<img width="300" height="400" alt="5" src="https://github.com/user-attachments/assets/77ff2add-ce23-4c12-bb18-30ae5b88388a" />
-<img width="300" height="400" alt="6" src="https://github.com/user-attachments/assets/0f4aa73e-e476-456e-9089-a8e5a7d11682" />
-<img width="300" height="400" alt="7" src="https://github.com/user-attachments/assets/0b25087d-53e6-485c-af3c-f005d9aab01c" />
+<img width="300" height="600" alt="3" src="https://github.com/user-attachments/assets/9ffdeb6f-1c37-4804-940c-273aacec1f55" />
+<img width="300" height="600" alt="4" src="https://github.com/user-attachments/assets/5ceb82af-8073-49a1-bb6d-c44193ce0a34" />
+<img width="300" height="600" alt="5" src="https://github.com/user-attachments/assets/77ff2add-ce23-4c12-bb18-30ae5b88388a" />
+<img width="300" height="600" alt="6" src="https://github.com/user-attachments/assets/0f4aa73e-e476-456e-9089-a8e5a7d11682" />
+<img width="300" height="600" alt="7" src="https://github.com/user-attachments/assets/0b25087d-53e6-485c-af3c-f005d9aab01c" />
 
 
