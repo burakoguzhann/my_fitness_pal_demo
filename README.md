@@ -18,8 +18,8 @@ State Managment olarak Provider kullanıldı,
 Pedometer paketi ile telefondaki sensörden gelen adım sayısının bilgileri ekrana yansıtılıyor. 
 MVVM mimari kullanıldı, 
 
-<img width="300" height="500" alt="1" src="https://github.com/user-attachments/assets/11bd8187-1f87-49a9-8c47-50e268203dba" />
-<img width="300" height="400" alt="2" src="https://github.com/user-attachments/assets/3e020ecf-5730-4146-91fb-657c3ce94792" />
+<img width="300" height="600" alt="1" src="https://github.com/user-attachments/assets/11bd8187-1f87-49a9-8c47-50e268203dba" />
+<img width="300" height="600" alt="2" src="https://github.com/user-attachments/assets/3e020ecf-5730-4146-91fb-657c3ce94792" />
 <img width="300" height="400" alt="3" src="https://github.com/user-attachments/assets/9ffdeb6f-1c37-4804-940c-273aacec1f55" />
 <img width="300" height="400" alt="4" src="https://github.com/user-attachments/assets/5ceb82af-8073-49a1-bb6d-c44193ce0a34" />
 <img width="300" height="400" alt="5" src="https://github.com/user-attachments/assets/77ff2add-ce23-4c12-bb18-30ae5b88388a" />
