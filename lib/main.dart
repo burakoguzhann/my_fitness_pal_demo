@@ -1,11 +1,11 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_fitness_app/providers/exercisecard_provider.dart';
+import 'package:flutter_fitness_app/providers/foods_provider.dart';
 import 'package:flutter_fitness_app/providers/pedometer_provider.dart';
 import 'package:flutter_fitness_app/providers/stats_provider.dart';
+import 'package:flutter_fitness_app/screens/calories_screen.dart';
 import 'package:flutter_fitness_app/screens/home_screen.dart';
-import 'package:flutter_fitness_app/screens/login_screen.dart';
-import 'package:flutter_fitness_app/screens/register_screen.dart';
 
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
@@ -21,6 +21,7 @@ Future<void> main() async {
         ChangeNotifierProvider(create: (_) => StatsProvider()),
         ChangeNotifierProvider(create: (_) => StepCounterProvider()),
         ChangeNotifierProvider(create: (_) => ExercisecardProvider()),
+        ChangeNotifierProvider(create: (_) => FoodsProvider()),
       ],
       child: MainApp(),
     ),
@@ -41,7 +42,7 @@ class MainApp extends StatelessWidget {
           useMaterial3: true,
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.white),
         ),
-        home: HomeScreen(),
+        home: CaloriesScreen(),
       ),
     );
   }
